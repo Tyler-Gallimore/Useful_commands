@@ -1,0 +1,1 @@
+aws ec2 run-instances --image-id <Value> --instance-type <Value> --security-group-ids <Value> --subnet-id <Value> --key-name <Value> --user-data file://<Value>
